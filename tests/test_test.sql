@@ -1,0 +1,1 @@
+select * from {{ref('FILE')}} where 'COUNTRY_CODE' = 'CZ' 
