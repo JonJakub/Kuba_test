@@ -5,6 +5,7 @@ GB,United Kingdom,87654321
 CZ,Czechia,1100000
 PL,Poland,3456578676
 PL,Poland,3456578676
+<<<<<<< HEAD
 PL,Poland,3456578676
 PL,Poland,3456578676
 PL,Poland,3456578676
@@ -13,3 +14,6 @@ PL,Poland,3456578676
 PL,Poland,3456578676
 PL,Poland,3456578676
 PL,Poland,345
+=======
+
+>>>>>>> 2c2eee6b525cda14ba0456ffc5c8762f8b879fe5
